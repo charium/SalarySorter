@@ -12,7 +12,7 @@ To use this page, simply click and read through the links and information.
 To visit the page, go to web address: https://charium.github.io/SalarySorter/. 
 
 The following page should look like: 
-![Initial Web Page Deployement Cover Image.](WebSS.png)
+![Initial Web Page Deployement Cover Image.](WScreen Shot 2024-04-19 at 1.49.15 AM.png)
 
 ## Credits
 
